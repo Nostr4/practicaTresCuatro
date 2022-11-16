@@ -1,3 +1,3 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow: /juanma_vazquez/
+Disallow: /JuanMa_Vazquez/
